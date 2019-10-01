@@ -5,6 +5,8 @@ color green=#31E851;
 color blue=#6BB8D3;
 color black=#050505;
 color white=#F7FDFF;
+int coin;
+boolean good;
 int mode;
 int highScore;
 final int intro=0;
@@ -31,7 +33,7 @@ void setup() {
     i=i+1;
   }
   mode=intro;
- 
+coin=1;
 }
 
 void draw() {

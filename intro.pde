@@ -8,6 +8,6 @@ void intro(){
   n=0; 
  }
 a=0;
-  
+  points=0;
   
 }
