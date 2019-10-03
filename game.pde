@@ -39,10 +39,10 @@ if (coin==1&&good==true){
  good=false; 
 }
 
-if(coin==0&&good==true){
- good=true; 
-}
-else{coin=1;}
+//if(coin==0&&good==true){
+// good=true; 
+//}
+//else{coin=1;}
 
   fill(0); 
   a=a-0.05;
